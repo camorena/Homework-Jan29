@@ -90,7 +90,8 @@ body {
   }
   
   section h1{
-    margin: 40 0 40 0 px;
+    padding: 30px;
+    font-size: 30px;
     color: #4aaaa5;
   }
   
